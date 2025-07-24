@@ -51,6 +51,3 @@ Responsive website showcasing projects and resume downloads. Built with:
 - **Phone**: 734-883-0631
 
 ---
-
-![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=sprucen&show_icons=true&theme=dark)
-
